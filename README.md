@@ -1,2 +1,2 @@
-# rannasanchaya
-Ranna Sanchaya - Project to digitise Ranna's literary work &amp; enable linguistic research to anyone
+# Janna Sanchaya
+Janna Sanchaya - Project to digitise Janna's literary work &amp; enable linguistic research to anyone
