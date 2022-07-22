@@ -93,7 +93,6 @@ GEM
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (4.1.0)
-    newrelic_rpm (4.2.0.334)
     rack (1.5.5)
     rack-mini-profiler (0.10.5)
       rack (>= 1.2.0)
@@ -168,7 +167,7 @@ GEM
       execjs (>= 2.2.2, >= 2.2)
       less-rails (>= 2.5.0)
       railties (>= 3.1)
-    tzinfo (1.2.3)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (3.2.0)
       execjs (>= 0.3.0, < 3)
@@ -192,7 +191,6 @@ DEPENDENCIES
   jquery-rails
   less-rails
   mysql2 (~> 0.3.10)
-  newrelic_rpm
   rack-mini-profiler
   rails (= 4.1.6)
   rspec-rails (~> 3.0.0)
